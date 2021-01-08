@@ -28,7 +28,7 @@ using namespace std;
 
 /**Unlike many other solutions, this solution finds optimal values of x, y, and z in O(1)
  *printing takes O(n) time
- *Author : stunner2k18
+ *Author : stealth_x2k20
  *Pre-requisites -> Diophantine equation and other Number Theory Concepts
 **/
 
